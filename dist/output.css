@@ -990,6 +990,26 @@ video {
   background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/dace47b4-a5cb-4368-80fe-c26f3e77d540/6e6b26b5-089a-4efe-a2a0-a462f9190c41/BR-pt-20231023-popsignuptwoweeks-perspective_alpha_website_small.jpg);
 }
 
+.bg-\[url\(\/images\)\] {
+  background-image: url(/images);
+}
+
+.bg-\[url\(\/images\/header\)\] {
+  background-image: url(/images/header);
+}
+
+.bg-\[url\(\/images\/header-atual\)\] {
+  background-image: url(/images/header-atual);
+}
+
+.bg-\[url\(\/images\/header-atual\.\)\] {
+  background-image: url(/images/header-atual.);
+}
+
+.bg-\[url\(\/images\/header-atual\.jpg\)\] {
+  background-image: url(/images/header-atual.jpg);
+}
+
 .bg-cover {
   background-size: cover;
 }
